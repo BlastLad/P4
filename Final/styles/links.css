@@ -1,0 +1,23 @@
+/*DEVELOPER: Sean O'Connor, IS117-104, Spring, 2022 */
+#nav_menu_final ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#nav_menu_final ul li {
+	padding-left: 48%;         
+}
+#nav_menu_final ul li a {
+    display: inline-block;
+    border-radius: 4px;
+    width: 6em;
+    height: 3em;
+    text-align: center;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: rgb(102, 196, 159);
+    color: white;
+    font-weight: bold;
+}

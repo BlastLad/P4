@@ -1,0 +1,39 @@
+
+/*DEVELOPER: Sean O'Connor, IS117-104, Spring, 2022 */
+
+main {
+
+border: 3px solid #73AD21;
+}
+
+
+div {
+
+text-algin: center;
+
+}
+
+
+img {
+
+float: right;
+width: 50%;
+height: auto;
+margin-left: 1em;
+
+}
+
+.clearfix::after {
+
+	content: "";
+	clear: both;
+	display: table;
+
+
+}
+
+.clearfix {
+
+	margin: 1em 1em 1em 1em;
+	text-color: #820c27;
+}
